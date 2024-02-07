@@ -1,4 +1,4 @@
-dbt_fanareas:
+fanareas_dev:
   outputs:
 
     dev:
